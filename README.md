@@ -136,9 +136,13 @@ Este projeto contou com a orientação e mentoria de **Vitor Marques**, cujo apo
 
 <p align="center">
 
-<a href="https://github.com/vitormarques86">
-<img src="https://img.shields.io/badge/GitHub-vitormarques86-181717?style=for-the-badge&logo=github">
+<p align="center">
+
+<a href="https://github.com/vitormarques86" target="_blank">
+  <img src="https://img.shields.io/badge/Mentor-Vitor%20Marques-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+</p>
 
 </p>
 

@@ -1,0 +1,10 @@
+node_modules/
+.npm-cache/
+.expo/
+.eas-inspect-*/
+dist/
+dist-web/
+build/
+*.log
+android/
+ios/

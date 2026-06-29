@@ -61,12 +61,15 @@ Todo o aplicativo foi desenvolvido para funcionar **100% offline**, armazenando 
 # 📷 Screenshots
 
 <p align="center">
+  <img src="./assets/screenshots/home.png" width="30%">
+  <img src="./assets/screenshots/rotina.png" width="30%">
+  <img src="./assets/screenshots/receita.png" width="30%">
+</p>
 
-<img src="./assets/screenshots/home.png" width="23%">
-<img src="./assets/screenshots/treinos.png" width="23%">
-<img src="./assets/screenshots/alimentacao.png" width="23%">
-<img src="./assets/screenshots/receitas.png" width="23%">
-
+<p align="center">
+  <img src="./assets/screenshots/estcompra.png" width="30%">
+  <img src="./assets/screenshots/progresso.png" width="30%">
+  <img src="./assets/screenshots/ajustes.png" width="30%">
 </p>
 
 ---

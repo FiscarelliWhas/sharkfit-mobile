@@ -147,8 +147,16 @@ Este projeto contou com a orientação e mentoria de **Vitor Marques** durante o
 
 ---
 
-<p align="center">
+# 📌 Sobre este repositório
 
+Este repositório foi criado para apresentação do projeto em portfólio.
+
+Por conter código de caráter privado, apenas a documentação, demonstrações e capturas de tela estão disponíveis publicamente.
+
+
+---
+
+<p align="center">
 ⭐ Gostou do projeto? Considere deixar uma estrela no repositório.
 
 </p>

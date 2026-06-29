@@ -82,7 +82,7 @@ Todo o aplicativo foi desenvolvido para funcionar **100% offline**, armazenando 
 
 <p align="center">
 
-*Em breve será adicionado um GIF demonstrando o funcionamento completo do aplicativo.*
+https://github.com/user-attachments/assets/bbe9d667-48f7-4396-b37d-6f9a21e59651
 
 </p>
 

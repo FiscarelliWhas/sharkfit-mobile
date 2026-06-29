@@ -61,15 +61,29 @@ Todo o aplicativo foi desenvolvido para funcionar **100% offline**, armazenando 
 # 📷 Screenshots
 
 <p align="center">
-  <img src="./assets/screenshots/home.png" width="30%">
-  <img src="./assets/screenshots/rotina.png" width="30%">
-  <img src="./assets/screenshots/receita.png" width="30%">
+
+<img src="./assets/screenshots/home.jpeg" width="30%">
+<img src="./assets/screenshots/rotina.jpeg" width="30%">
+<img src="./assets/screenshots/receitas.jpeg" width="30%">
+
 </p>
 
 <p align="center">
-  <img src="./assets/screenshots/estcompra.png" width="30%">
-  <img src="./assets/screenshots/progresso.png" width="30%">
-  <img src="./assets/screenshots/ajustes.png" width="30%">
+
+<img src="./assets/screenshots/estoque.jpeg" width="30%">
+<img src="./assets/screenshots/progresso.jpeg" width="30%">
+<img src="./assets/screenshots/ajustes.jpeg" width="30%">
+
+</p>
+
+---
+
+# 🎥 Demonstração
+
+<p align="center">
+
+*Em breve será adicionado um GIF demonstrando o funcionamento completo do aplicativo.*
+
 </p>
 
 ---

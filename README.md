@@ -112,14 +112,14 @@ O SharkFit foi desenvolvido como um projeto de portfólio com foco em arquitetur
 
 ---
 
-```md
+
 ---
 
 # 👨‍💻 Desenvolvido por
 
 <p align="center">
 
-### **Whaslya Fiscarelli**
+### Whaslya Fiscarelli
 
 Software Developer • ERP • Mobile
 
@@ -132,24 +132,24 @@ Software Developer • ERP • Mobile
 
 # 🙏 Agradecimentos
 
-Este projeto contou com a orientação e mentoria de **Vitor Marques**, cujo apoio e compartilhamento de conhecimento contribuíram para o desenvolvimento deste aplicativo.
+Este projeto contou com a orientação e mentoria de **Vitor Marques** durante o desenvolvimento.
 
 <p align="center">
-
-<p align="center">
-
-<a href="https://github.com/vitormarques86" target="_blank">
-  <img src="https://img.shields.io/badge/Mentor-Vitor%20Marques-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/vitormarques86">
+<img src="https://github.com/vitormarques86.png" width="120">
 </a>
 
-</p>
+<br>
+
+**Vitor Marques**
 
 </p>
 
 ---
 
 <p align="center">
+
 ⭐ Gostou do projeto? Considere deixar uma estrela no repositório.
+
 </p>
-```
 
